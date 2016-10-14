@@ -1,0 +1,45 @@
+Cloud computing features
+1.Virtualization-(ability to increase computing efficiency) ex. running multiple pseudo ex. email server, web server, db server servers on one physical server
+division of single physical server into multiple virtual servers
+
+2. pay as you go
+ex. testing oracle on windows, testing oracle on windows
+
+3.reduced cost
+no need to invest in infra and maintainance.
+
+4.moving IT responsiblity to third party.
+focus on the core business and hand over infra management to experts.
+
+Cloud computing is multi-tenant i.e to seperate data
+
+
+5.bringing enterprise scale infra to small and medium business
+hardware software licenses,administration cost but with cloud computing a server can be capable of running business appls which can be rented for 11 $(subsription)
+
+scalablity and fast provisioning
+ex. flipcart sales surge during festive season, millions of users make transactions.
+
+Cloud is collection of services
+SaaS
+web access to commercial software, users are not required to handle software upgrades and patches
+Ex.Google services Google apps, office 365, Gmail,dropbox, webex, goto meeting
+where is SaaS used?vanilla offering, ex email
+demand spikes significatly, billing software
+
+PaaS
+Salesforce, Azure by microsoft or Amazon web services 
+quickly develop test and deploy
+
+Iaas
+demand on infrastructure is voltile, start ups which do not want to invest in expensive hardware, where scaling H/W will be a problem
+Ex, Rackspace, Amazon webservices, HP
+
+IaaS Public cloud vs private cloud
+Public cloud-shared infrastructure resources over internet for scaling requirements ex Amazon,IBM,Google
+
+Private cloud -uses private network, where organizations use their own hardware or hardware of a third party.hardware is dedicated and no sharing of infrastructure between users
+
+Hybrid Cloud
+Virtual private cloud-single customer but scalable
+cloud bursting-company uses its own infrastructure and at peak events will pass to public cloud utilizing the scaling feature of public cloud
